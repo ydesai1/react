@@ -38,7 +38,6 @@ class App extends Component {
   //     </div>
   //   )
   // }
-  //testing push
   state = {
     persons: [
       {id:'1',name: 'Max', age: 28},
